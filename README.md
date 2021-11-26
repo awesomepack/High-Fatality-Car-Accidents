@@ -1,2 +1,2 @@
-[Data Camp](https://www.datacamp.com/datacamp.png)
+[](https://www.datacamp.com/datacamp.png)
 
