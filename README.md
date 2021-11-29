@@ -16,3 +16,8 @@
     <li> Recommend promising leads focused on reducing the number of major incidents </li>
  </p>
  
+<H3> Deliverables </H3>
+<p> A report recommending leads on interventions that may lead to a reduction in the number of major car incidents in the United Kingdom. Visualizations will highlight patterns and trends in the data and support the recommendations. The report will be in PDF form as well as in a jupyter notebook that will be publicly available on DataCamps website.
+ 
+ 
+ 
